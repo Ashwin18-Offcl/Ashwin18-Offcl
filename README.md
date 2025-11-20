@@ -2,8 +2,7 @@
 
 ## 👤  About Me
 
-I am a passionate Data Analyst and Technical Faculty with hands-on experience in Power BI, Tableau, Python, SQL, Advanced Excel, ETL workflows, and Data Storytelling. I specialize in transforming raw data into meaningful insights, building interactive dashboards, and guiding learners toward industry-ready analytical skills.
-
+I am Data Analyst and Technical Faculty who approaches work with clarity, sincerity, and inner discipline. With hands-on experience in Power BI, Tableau, Python, SQL, Advanced Excel, ETL workflows, and Data Storytelling, I see data not just as numbers, but as a pathway to uncover truth hidden beneath clutter.
 
 ## 👨‍🏫 Professional Summary:
 
