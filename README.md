@@ -5,7 +5,7 @@
 
 <!-- Top Banner (replace BANNER_URL with your Canva banner link) -->
 <p align="center">
-  <img src="BANNER_URL" alt="Ashwin Panbude Banner" width="100%" style="border-radius:12px"/>
+  <img src="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="Ashwin Panbude Banner" width="100%" style="border-radius:12px"/>
 </p>
 
 <!-- Centered profile avatar (replace AVATAR_URL) -->
