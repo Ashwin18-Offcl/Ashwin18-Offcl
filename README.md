@@ -11,13 +11,14 @@
 
 - 🌱 I’m currently learning **Data Analytics, AI ML And Data Science**
 
-- 👨‍💻 All of my projects are available at(https://drive.google.com/drive/folders/1jJzBZo9EDw7lz-FByO0uYNsNePf9IsZp)
+- 👨‍💻 All of my projects are available at:- https://bit.ly/4oJbSFM
 
-- 💬 Ask me about **Data Analyst focused on BI dashboards, data modeling, and actionable insights. Turning complex data into clarity with Power BI, Tableau, Python, and Excel.**
+- 💬 Ask me about
+-  **Data Analyst focused on BI dashboards, data modeling, and actionable insights. Turning complex data into clarity with Power BI, Tableau, Python, and Excel.**
 
-- 📫 How to reach me **ashwinpanbude1220@gmail.com**
+- 📫 How to reach me:- **ashwinpanbude1220@gmail.com**
 
-- 📄 Know about my experiences (https://www.linkedin.com/posts/ashwin-panbude-27b824253_resume-activity-7388163876141355008-CPsg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6Xjn8BIl9js5kmJuoWLoTe3HceZ-B2BO8)
+- 📄 Know about my experiences:- https://bit.ly/49pSuZJ
 
 - ⚡ Fun fact **“If work is your love, vacation becomes meaningless.”**
 
