@@ -1,11 +1,15 @@
 ## 👋 Hi, I'm Ashwin Ananta Panbude
 
-## 🚀 About Me
+## 👤  About Me
 
 I am a passionate Data Analyst and Technical Faculty with hands-on experience in Power BI, Tableau, Python, SQL, Advanced Excel, ETL workflows, and Data Storytelling. I specialize in transforming raw data into meaningful insights, building interactive dashboards, and guiding learners toward industry-ready analytical skills.
+
+
+## 👨‍🏫 Professional Summary:
+
 Data Analyst with expertise in Power BI, Tableau, Python, SQL, and Excel.
 I create impactful dashboards and insights that support smart decision-making.
-Trained 800+ learners in analytics, MS Office, Tally & GST.
+Trained 800+ students in analytics & digital skills in analytics, MS Office, Tally & GST.
 Focused on continuous learning and real-world problem solving.
 **Ashwin18-Offcl/Ashwin18-Offcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +23,5 @@ Data Analyst | Business Analytics| AI Tools | 📉 Tableau | 📈 Power BI | DAX
 ## Soft Skills:
 🔄 Problem Solving |🤝 Relationship Building |🧠 Adaptive Learner | 🗣️ Excellent Communication |📘 Guiding Others  
 
+## 🔗 Connect With Me:
 
