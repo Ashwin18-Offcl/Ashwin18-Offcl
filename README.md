@@ -1,4 +1,4 @@
-##👋 Hi, I'm Ashwin Ananta Panbude
+## 👋 Hi, I'm Ashwin Ananta Panbude
 
 ## 🚀 About Me
 
@@ -10,9 +10,10 @@ Focused on continuous learning and real-world problem solving.
 **Ashwin18-Offcl/Ashwin18-Offcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Technical Skills:
-## Data Analyst | Business Analytics| AI Tools | 📉 Tableau | 📈 Power BI | DAX | 📊 Adv. Excel |🔍 Power Query | |📚 Data Cleaning | 🔁 ETL Processes   | 🛠️ MS Office (Word, Excel, PowerPoint, Outlook) | 🧠 AI/ML Basics | 🐍 Python | 🗃️ SQL | 📊 R-Programmiing | 💠 C | Data Storytelling |📑 MIS Reports | 📊 Data Visualization | 📉 EDA (Exploratory Data Analysis) | 📦 Data Modeling   
 
-## Tools 
+Data Analyst | Business Analytics| AI Tools | 📉 Tableau | 📈 Power BI | DAX | 📊 Adv. Excel |🔍 Power Query | |📚 Data Cleaning | 🔁 ETL Processes   | 🛠️ MS Office (Word, Excel, PowerPoint, Outlook) | 🧠 AI/ML Basics | 🐍 Python | 🗃️ SQL | 📊 R-Programmiing | 💠 C | Data Storytelling |📑 MIS Reports | 📊 Data Visualization | 📉 EDA (Exploratory Data Analysis) | 📦 Data Modeling   
+
+## Technical Tools:
 🖥️ VS Code | 🧩 PyCharm | 📝 Jupyter | 🛠️ MS Office | 📁 GitHub | ⚙️ MySQL | 📦 Git Version Control | 📝 Jupyter Notebook  
 
 ## Soft Skills:
