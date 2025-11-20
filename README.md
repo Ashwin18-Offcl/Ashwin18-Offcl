@@ -1,16 +1,21 @@
-## Hi there 👋
+##👋 Hi, I'm Ashwin Ananta Panbude
 
-<!--
+## 🚀 About Me
+
+I am a passionate Data Analyst and Technical Faculty with hands-on experience in Power BI, Tableau, Python, SQL, Advanced Excel, ETL workflows, and Data Storytelling. I specialize in transforming raw data into meaningful insights, building interactive dashboards, and guiding learners toward industry-ready analytical skills.
+Data Analyst with expertise in Power BI, Tableau, Python, SQL, and Excel.
+I create impactful dashboards and insights that support smart decision-making.
+Trained 800+ learners in analytics, MS Office, Tally & GST.
+Focused on continuous learning and real-world problem solving.
 **Ashwin18-Offcl/Ashwin18-Offcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Technical Skills:
+## Data Analyst | Business Analytics| AI Tools | 📉 Tableau | 📈 Power BI | DAX | 📊 Adv. Excel |🔍 Power Query | |📚 Data Cleaning | 🔁 ETL Processes   | 🛠️ MS Office (Word, Excel, PowerPoint, Outlook) | 🧠 AI/ML Basics | 🐍 Python | 🗃️ SQL | 📊 R-Programmiing | 💠 C | Data Storytelling |📑 MIS Reports | 📊 Data Visualization | 📉 EDA (Exploratory Data Analysis) | 📦 Data Modeling   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools 
+🖥️ VS Code | 🧩 PyCharm | 📝 Jupyter | 🛠️ MS Office | 📁 GitHub | ⚙️ MySQL | 📦 Git Version Control | 📝 Jupyter Notebook  
+
+## Soft Skills:
+🔄 Problem Solving |🤝 Relationship Building |🧠 Adaptive Learner | 🗣️ Excellent Communication |📘 Guiding Others  
+
+
