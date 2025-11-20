@@ -10,7 +10,7 @@
 
 <!-- Centered profile avatar (replace AVATAR_URL) -->
 <div align="center">
-  <img src="AVATAR_URL" alt="Ashwin Ananta Panbude" width="170" style="border-radius:85px; border:5px solid rgba(255,255,255,0.08)"/>
+  <img src="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/blob/main/Stable%20Diffusion.jpg" alt="Ashwin Ananta Panbude" width="170" style="border-radius:85px; border:5px solid rgba(255,255,255,0.08)"/>
   <h2>Hi there, I'm <strong>Ashwin Ananta Panbude</strong> 👋</h2>
   <p style="color:#9aa6b2">Data Analyst • Business Analyst • Technical Faculty</p>
 </div>
