@@ -54,7 +54,7 @@ I am a passionate Data Analyst and Technical Faculty with hands-on experience in
 
 ---
 
-## 🧰 Square / 3D-style Tool Icons
+## 🧰Tools & Languages
 <p>
   <img src="https://img.shields.io/badge/PyCharm-IDE-2b2b2b?style=flat-square&logo=pycharm" alt="PyCharm"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter" alt="Jupyter"/>&nbsp;
