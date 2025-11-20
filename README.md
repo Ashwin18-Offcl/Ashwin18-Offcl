@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Panbude</h1>
-<h3 align="center">I am loving Data Analyst and Technical Faculty who approaches work with clarity, sincerity, and inner discipline. With hands-on experience in Power BI, Tableau, Python, SQL, Advanced Excel, ETL workflows, and Data Storytelling, I see data not just as numbers, but as a pathway to uncover truth hidden beneath clutter.</h3>
+<h3 align="center"> I am loving Data Analyst and Technical Faculty who approaches work with clarity, sincerity, and inner discipline. With hands-on experience in Power BI, Tableau, Python, SQL, Advanced Excel, ETL workflows, and Data Storytelling, I see data not just as numbers, but as a pathway to uncover truth hidden beneath clutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin18-offcl&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin18-offcl" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Data Analytics, AI ML And Data Science**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1jJzBZo9EDw7lz-FByO0uYNsNePf9IsZp](https://drive.google.com/drive/folders/1jJzBZo9EDw7lz-FByO0uYNsNePf9IsZp)
+- 👨‍💻 All of my projects are available at(https://drive.google.com/drive/folders/1jJzBZo9EDw7lz-FByO0uYNsNePf9IsZp)
 
 - 💬 Ask me about **Data Analyst focused on BI dashboards, data modeling, and actionable insights. Turning complex data into clarity with Power BI, Tableau, Python, and Excel.**
 
 - 📫 How to reach me **ashwinpanbude1220@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/posts/ashwin-panbude-27b824253_resume-activity-7388163876141355008-CPsg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6Xjn8BIl9js5kmJuoWLoTe3HceZ-B2BO8](https://www.linkedin.com/posts/ashwin-panbude-27b824253_resume-activity-7388163876141355008-CPsg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6Xjn8BIl9js5kmJuoWLoTe3HceZ-B2BO8)
+- 📄 Know about my experiences (https://www.linkedin.com/posts/ashwin-panbude-27b824253_resume-activity-7388163876141355008-CPsg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6Xjn8BIl9js5kmJuoWLoTe3HceZ-B2BO8)
 
 - ⚡ Fun fact **“If work is your love, vacation becomes meaningless.”**
 
@@ -42,81 +42,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin18-offcl&" alt="ashwin18-offcl" /></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 👋 Hi, I'm Ashwin Ananta Panbude
-
-## 👤  About Me
-
-I am Data Analyst and Technical Faculty who approaches work with clarity, sincerity, and inner discipline. With hands-on experience in Power BI, Tableau, Python, SQL, Advanced Excel, ETL workflows, and Data Storytelling, I see data not just as numbers, but as a pathway to uncover truth hidden beneath clutter.
-
 ## 👨‍🏫 Professional Summary:
 
 Data Analyst with expertise in Power BI, Tableau, Python, SQL, and Excel.
 I create impactful dashboards and insights that support smart decision-making.
 Trained 800+ students in analytics & digital skills in analytics, MS Office, Tally & GST.
 Focused on continuous learning and real-world problem solving.
-
-**Ashwin18-Offcl/Ashwin18-Offcl** is a
-✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Technical Skills:
 
@@ -126,7 +57,4 @@ Data Analyst | Business Analytics| AI Tools | 📉 Tableau | 📈 Power BI | DAX
 🖥️ VS Code | 🧩 PyCharm | 📝 Jupyter | 🛠️ MS Office | 📁 GitHub | ⚙️ MySQL | 📦 Git Version Control | 📝 Jupyter Notebook  
 
 ## Soft Skills:
-🔄 Problem Solving |🤝 Relationship Building |🧠 Adaptive Learner | 🗣️ Excellent Communication |📘 Guiding Others  
-
-## 🔗 Connect With Me:
-
+🔄 Problem Solving |🤝 Relationship Building |🧠 Adaptive Learner | 🗣️ Excellent Communication |📘 Guiding Others
