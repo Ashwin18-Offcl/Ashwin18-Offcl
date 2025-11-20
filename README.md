@@ -108,15 +108,20 @@ I am a passionate Data Analyst and Technical Faculty with hands-on experience in
 ---
 
 ## 📈 GitHub Snapshot & Contributions
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashwin18-offcl&show_icons=true&theme=dark" />
-</p>
+### 📊 GitHub Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=ashwin18-offcl&show_icons=true&theme=dark&hide_border=true"/></p>
 
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin18-offcl&theme=dark" />
-</p>
+### 🧩 Top Languages
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin18-offcl&layout=compact&theme=dark"/></p>
 
----
+### 📉 Profile Activity Graph
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwin18-offcl&theme=github_dark"/></p>
+
+<p style="font-size:12px;color:#9aa6b2">“If work is your love, vacation becomes meaningless.”</p>
+
+</td>
+</tr>
+</table>
 
 ## 🔧 Current Projects & Status
 - **Blinkit Sales Analytics — Power BI**  
@@ -154,3 +159,7 @@ See more: <a href="https://github.com/ashwin18-offcl">github.com/ashwin18-offcl<
 <p align="center" style="color:#9aa6b2;font-size:13px">
   Fun fact: “If work is your love, vacation becomes meaningless.”  
 </p>
+
+
+
+
