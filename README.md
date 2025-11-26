@@ -112,10 +112,6 @@ I am a passionate Data Analyst and Technical Faculty with hands-on experience in
 ---
 
 # 📊 GitHub Stats (Enhanced Layout)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwin18-offcl&show_icons=true&theme=highcontrast&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin18-offcl&layout=compact&theme=highcontrast&hide_border=true" width="41%"/>
-</p>
 
 ---
 
