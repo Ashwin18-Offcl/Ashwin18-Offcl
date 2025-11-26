@@ -112,6 +112,10 @@ I am a passionate Data Analyst and Technical Faculty with hands-on experience in
 ---
 
 # 📊 GitHub Stats (Enhanced Layout)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashwin18-offcl&layout=compact&theme=blue-green" />
+</p>
+
 
 ---
 
