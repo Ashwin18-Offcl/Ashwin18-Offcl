@@ -1,5 +1,6 @@
 
 
+
 <!-- ===========================================
      ASHWIN ANANTA PANBUDE — UPDATED GITHUB PROFILE
      Clean, professional, fully customized version
@@ -75,6 +76,10 @@ I am a passionate Data Analyst and Technical Faculty with hands-on experience in
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
   <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion"/>
 </p>
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ---
 
