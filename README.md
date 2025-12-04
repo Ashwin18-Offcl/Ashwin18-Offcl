@@ -1,3 +1,5 @@
+
+
 <!-- ===========================================
      ASHWIN ANANTA PANBUDE — UPDATED GITHUB PROFILE
      Clean, professional, fully customized version
@@ -113,7 +115,7 @@ I am a passionate Data Analyst and Technical Faculty with hands-on experience in
 
 # 📊 GitHub Stats (Enhanced Layout)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashwin18-offcl&layout=compact&theme=blue-green" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashwin18-Offcl&theme=github_dark" />
 </p>
 
 
