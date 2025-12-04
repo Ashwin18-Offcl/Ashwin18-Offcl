@@ -116,21 +116,44 @@ I am a passionate Data Analyst and Technical Faculty with hands-on experience in
 
 ---
 
-# 📊 GitHub Stats (Enhanced Layout)
+## 📊 GitHub Analytics Overview  
+
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashwin18-Offcl&theme=github_dark" />
+  <!-- Repos per Language -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwin18-offcl&theme=github_dark" 
+    alt="Top Languages by Repo" 
+    height="180"
+  />
+  <!-- Most Commit Language -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwin18-offcl&theme=github_dark" 
+    alt="Most Used Languages by Commit" 
+    height="180"
+  />
 </p>
 
+<p align="center">
+  <!-- General Stats -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashwin18-offcl&theme=github_dark" 
+    alt="GitHub Stats Summary" 
+    height="180"
+  />
+  <!-- Productive Time -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashwin18-offcl&theme=github_dark&utcOffset=5" 
+    alt="Productive Time (IST)" 
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwin18-offcl&theme=monokai"/>
+</p>
 
 <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin18-Offcl&theme=react-dark" />
-</p>
-
----
-
-# 📉 Activity Graph
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwin18-offcl&theme=monokai"/>
 </p>
 
 ---
