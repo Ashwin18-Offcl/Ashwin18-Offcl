@@ -21,33 +21,58 @@
 
 <!-- Glassmorphism Stats Card -->
 <p align="center">
-  <div style="
-    padding: 25px;
-    border-radius: 25px;
-    width: 85%;
-    backdrop-filter: blur(10px);
-    background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.2);
-  ">
-  </div>
+
+  <!-- Stars -->
+  <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/stargazers">
+    <img src="https://img.shields.io/github/stars/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge" alt="Stars Badge"/>
+  </a>
+
+  <!-- Forks -->
+  <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/network/members">
+    <img src="https://img.shields.io/github/forks/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge" alt="Forks Badge"/>
+  </a>
+
+  <!-- Watchers -->
+  <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/watchers">
+    <img src="https://img.shields.io/github/watchers/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge" alt="Watchers Badge"/>
+  </a>
+
+  <!-- Followers -->
+  <a href="https://github.com/Ashwin18-Offcl?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ashwin18-Offcl?style=for-the-badge" alt="Followers Badge"/>
+  </a>
+
+  <!-- Pull Requests -->
+  <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge" alt="Pull Requests Badge"/>
+  </a>
+
+  <!-- Issues -->
+  <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/issues">
+    <img src="https://img.shields.io/github/issues/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge" alt="Issues Badge"/>
+  </a>
+
+  <!-- Contributors -->
+  <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge" alt="Contributors Badge"/>
+  </a>
+
+  <!-- Commits -->
+  <a href="#">
+    <img src="https://img.shields.io/github/commit-activity/y/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge" alt="Commit Activity Badge"/>
+  </a>
+
+  <!-- Share Button -->
+  <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl">
+    <img src="https://img.shields.io/badge/Share%20Repo-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Share Repo Badge"/>
+  </a>
+
+  <!-- License -->
+  <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge" alt="License Badge"/>
+  </a>
+
 </p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/github/followers/Ashwin18-Offcl?label=Followers&style=for-the-badge&logo=github&color=ff6ec7&logoColor=white" />
-
-  <img src="https://img.shields.io/github/stars/Ashwin18-Offcl?affiliations=OWNER&label=Stars&style=for-the-badge&logo=starship&color=8A2BE2&logoColor=white" />
-
-  <img src="https://img.shields.io/github/forks/Ashwin18-Offcl/Ashwin18-Offcl?label=Forks&style=for-the-badge&logo=git-fork&color=20b2aa&logoColor=white" />
-
-  <img src="https://komarev.com/ghpvc/?username=Ashwin18-Offcl&style=for-the-badge&label=Profile%20Views&color=ff4500" />
-
-  <img src="https://img.shields.io/badge/Commits-Actively%20Pushing-blueviolet?style=for-the-badge&logo=git&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Support-Share%20My%20Work-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
-
-</p>
-
 
 ---
 
