@@ -50,9 +50,6 @@
     <a href="https://github.com/Ashwin18-Offcl?tab=followers">
       <img src="https://img.shields.io/github/followers/Ashwin18-Offcl?style=for-the-badge&color=ff4500&logo=github&logoColor=white" alt="Followers"/>
     </a>
-    <a href="https://github.com/Ashwin18-Offcl/">
-      <img src="https://img.shields.io/github/commit-activity/y/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge&color=ffdd57&logo=git&logoColor=white" alt="Total Commits"/>
-    </a>
     <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/issues">
       <img src="https://img.shields.io/github/issues/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge&color=ff6347&logo=issue-opened&logoColor=white" alt="Issues"/>
     </a>
