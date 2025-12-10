@@ -315,9 +315,8 @@
 
 ---
 
-## 📑 Certifications – Category Index
 
-## 📂 Certifications – Index (Short Link Style with Actual Repo Links)
+## 📂 Certifications – Index
 
 <div align="left">
 
@@ -395,11 +394,6 @@
 </table>
 
 </div>
-
----
-
-
-
 
 ---
 
